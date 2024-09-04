@@ -1,0 +1,25 @@
+script,emotion
+"""I am the danger, Skyler!""",angry
+"""You get what you deserve!""",angry
+"""You'll regret ever crossing me!""",angry
+"""This is the best day of my life""",happy
+"""Everything feels perfect today""",happy
+"""My heart is dancing with joy""",happy
+"""Unfortunately, she said no""",sad
+"""Sorrow weighed heavily on my heart""",sad
+"""The loss left me feeling shattered""",sad
+"""The conditions in the prison were revolting""",disgust
+"""The sight of the decaying animal was repulsive""",disgust
+"""The slimy texture of the food made my skin crawl""",disgust
+"""During the earthquake, I was fearful for my life""",fear
+"""That really freaks me out""",fear
+"""I'm scared to death""",fear
+"""That was very suprising!""",surprise
+"""Goodness me, I never expected to see you here""",surprise
+"""Holy cow, they've doubled the prices overnight!""",surprise
+"""The serene sunset brought instant calm""",calm
+"""The serene atmosphere made me feel comfortable.""",calm
+"""The peaceful environment brought me calm""",calm
+"""The train arrives at noon""",neutral
+"""The report is due by Friday""",neutral
+"""The store closes at 10 PM""",neutral
